@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Psychological_Test</string>
+    <string name="main_title">연애타입 Check</string>
+    <string name="question">좋아하는 꽃이 시들어 버렸다.\n당신은 어떻게 하시겠습니까?</string>
+    <string name="selection1">1) 버린다.</string>
+    <string name="selection2">2) 혹시 모르니 물을 준다.</string>
+    <string name="selection3">3) 시든 부위를 가위로 자른다.</string>
+    <string name="selection4">4) 말린 꽃으로 무언가를 만든다.</string>
+    <string name="result1">You are a quitter!</string>
+    <string name="result2">May be you give up on</string>
+
+
+
+
+
+
+
+</resources>
